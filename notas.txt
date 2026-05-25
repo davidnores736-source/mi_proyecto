@@ -1,1 +1,1 @@
-Línea original
+Version 1: Base de proyecto
