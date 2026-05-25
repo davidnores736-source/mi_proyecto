@@ -1,1 +1,3 @@
 Version 1: Base de proyecto
+Version 2: Añadidas mejoras
+código super importante
